@@ -1,0 +1,33 @@
+h1 {
+  color: blue;
+  font-family: cursive;
+}
+ 
+
+table,
+td,
+th {
+  border: 1px solid red;
+}
+table {
+  width: 100%;
+}
+body {
+  background-color: rgb(211, 255, 240);
+}
+
+#food{
+    color:rgb(248, 6, 167);
+}
+
+#edu{
+    color:purple;
+    font-family: monospace;
+}
+
+.profile{
+    color: rgb(1, 125, 163);
+}
+.personal{
+    color:rgb(175, 0, 161);
+}
